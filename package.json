@@ -1,0 +1,28 @@
+{
+  "name": "withings",
+  "version": "0.0.0",
+  "description": "Withings API client library for node.js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/desmondmorris/node-withings.git"
+  },
+  "keywords": [
+    "withings",
+    "fitness"
+  ],
+  "author": "Desmond Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/desmondmorris/node-withings/issues"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  }
+}
